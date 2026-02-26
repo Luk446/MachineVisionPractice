@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 ## Contents
 
-- `ImageProcessing_1.ipynb` - Image processing exercises and techniques
+- `ImageProcessing_1.ipynb` - Fundamental image processing with OpenCV: color space conversions, geometric transforms, smoothing filters, edge detection (Canny), and histogram equalization
 - `MachineLearningProcessing.ipynb` - Machine learning and image processing tasks
