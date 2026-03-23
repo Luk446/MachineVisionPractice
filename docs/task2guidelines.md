@@ -50,7 +50,7 @@ For each codebook size:
 6. Report final performance on the test set and include a confusion matrix.
 Task 5: Deep Learning Classification (22 marks)
 1. Load a pre-trained DenseNet-121 model.
-2. Replace the final classification layer for 10 classes.
+2. Replace the final classification layer for the 37 classes.
 3. Train (fine-tune) the network using the training dataset.
 4. Evaluate performance on the validation and test sets using accuracy, precision, recall, and F1-score.
 Task 6: Data Augmentation (12 marks)
