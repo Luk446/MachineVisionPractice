@@ -19,3 +19,4 @@ pip install -r requirements.txt
 
 - `ImageProcessing_1.ipynb` - Fundamental image processing with OpenCV: color space conversions, geometric transforms, smoothing filters, edge detection (Canny), and histogram equalization
 - `MachineLearningProcessing.ipynb` - End-to-end Oxford-IIIT Pet classification workflow covering dataset exploration, stratified train/validation/test splitting, a traditional ORB + Bag-of-Visual-Words + XGBoost pipeline, and a DenseNet-121 CNN baseline with augmentation experiments. The notebook reports core evaluation metrics including accuracy, precision, recall, and F1 score.
+- `3d_reconstruction_motion_estimation.ipynb` - Pipeline for 3D reconstruction, estimating geometry via sparse matching and generating a dense depth map using advanced disparity estimation algorithms, using OpenCV and NumPy
